@@ -23,8 +23,12 @@ fun main(args: Array<String>) {
         }
     }
     println("${max-min}")
+
+
 //    arr.sort()
 //    println("${arr[size-1]-arr[0]}")
+
+    
 //    for(i in 0..size-1){
 //        for(j in 0..size-1){
 //            if(arr[i]<arr[j]){
