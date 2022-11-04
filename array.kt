@@ -4,7 +4,7 @@ fun main(args: Array<String>) {
 
     var  sc= Scanner(System.`in`)
     var size:Int
-    var temp=0
+//    var temp=0
     var max=0
     println("Enter the size of the array")
     size=sc.nextInt()
